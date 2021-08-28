@@ -1,4 +1,4 @@
-package com.example.demo.data;
+package io.hexaforce.data;
 
 import java.time.LocalDateTime;
 

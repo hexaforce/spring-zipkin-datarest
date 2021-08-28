@@ -1,4 +1,4 @@
-package sleuth.webmvc;
+package io.hexaforce;
 
 import java.util.Date;
 import org.springframework.boot.SpringApplication;

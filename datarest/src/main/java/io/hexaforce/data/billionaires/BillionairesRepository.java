@@ -1,4 +1,4 @@
-package com.example.demo.data.billionaires;
+package io.hexaforce.data.billionaires;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;

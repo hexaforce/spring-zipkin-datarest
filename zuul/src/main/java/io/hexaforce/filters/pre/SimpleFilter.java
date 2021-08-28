@@ -1,4 +1,4 @@
-package com.example.routingandfilteringgateway.filters.pre;
+package io.hexaforce.filters.pre;
 
 import javax.servlet.http.HttpServletRequest;
 import com.netflix.zuul.context.RequestContext;
@@ -23,6 +23,7 @@ public class SimpleFilter extends ZuulFilter {
 
   @Override
   public boolean shouldFilter() {
+	  //super.shouldFilter();
     return true;
   }
 

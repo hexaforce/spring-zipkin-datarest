@@ -1,4 +1,4 @@
-package com.example.demo;
+package io.hexaforce;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

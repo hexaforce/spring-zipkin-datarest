@@ -1,10 +1,9 @@
-package com.example.demo.data.billionaires;
+package io.hexaforce.data.billionaires;
 
 import javax.persistence.Entity;
 import javax.validation.constraints.NotNull;
 
-import com.example.demo.data.BaseEntity;
-
+import io.hexaforce.data.BaseEntity;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
